@@ -1,0 +1,2 @@
+# -7-4-Hamming-code
+The (7,4) Hamming code encodes 4-bits message using only 3-parity bits for a total of 7-bits, each of the 3-parity bits are parity for 3 of the 4-data bits, and no 2-parity bits are for the same 3-data bits. All of the parity bits are even parity   The total 7-bits are arranged using a special layout plan that is determined by creating a 4×7 generator matrix [G] which was implemented by R.W Hamming using these equations -comes from parity bit definitions- and some mathematics   
