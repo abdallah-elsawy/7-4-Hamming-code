@@ -1,4 +1,4 @@
-# -7-4-Hamming-code
+# 7-4-Hamming-code
 Design (7, 4) Hamming code encoder and decoder.
 • Hamming code adds 3 parity bits to each 4-bit word of data.
 • The input should be a serial bit stream, the output is a serial bit stream at
